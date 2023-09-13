@@ -1,4 +1,6 @@
-### Hi there 👋
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Luke+Yao+" />
+</h3>
 
 <!--
 **luk3ya0/luk3ya0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
